@@ -5,9 +5,6 @@
  <a href="https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/" target="_blank"><img src="https://img.shields.io/badge/-Kalbonyan%20Elmarsos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### The Aim of this internship
 - <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
-- <a href="#MERN">Learn MERN Stack</a>
-- <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
-- <a href="#serverless">Learn How to Make serverless web applications</a>
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
 <br>
@@ -23,7 +20,7 @@
 <br />
 - ## Programming Foundations series and HTML and CSS from Linkdin Learning
 
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
+    - [#10004] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Completed` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 45m 30s` - 04 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
