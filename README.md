@@ -16,7 +16,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![2%](https://progress-bar.dev/0/?title=Done)
+![2%](https://progress-bar.dev/2/?title=Done)
 <br />
 - ## Programming Foundations series and HTML and CSS from Linkdin Learning
 
