@@ -14,7 +14,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/">
 <div id="linkedin_container">
 	<img style="width:5px; height:5px;" src="https://www.iconsdb.com/icons/preview/navy-blue/linkedin-xxl.png"><p style="color: white;">My Linkedin Account</p>
-<div>
+</div>
 </a>
 ### The Aim of this internship
 - <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
