@@ -3,7 +3,7 @@
  <br />
 
  <a target="_blank" href="https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/"><img src="https://img.shields.io/badge/-Kalbonyan%20Elmarsos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
- <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/"><img width="100" height="25" src="my_account.png"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/"><img width="125" height="30" src="my_account.png"/></a>
 
 ### The Aim of this internship
 - <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
