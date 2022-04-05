@@ -4,8 +4,8 @@
 <style>
 	#linkedin_container{
 		background-color:blue;
-		width:100px;
-		height:40px;
+		width:50px;
+		height:10px;
 	}
 </style> 
 
@@ -13,8 +13,7 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/">
 <div id="linkedin_container">
-	<img src="https://www.iconsdb.com/icons/preview/navy-blue/linkedin-xxl.png">
-	<p style="color: white;">My Linkedin Account</p>
+	<img style="width:5px; height:5px;" src="https://www.iconsdb.com/icons/preview/navy-blue/linkedin-xxl.png"><p style="color: white;">My Linkedin Account</p>
 <div>
 </a>
 ### The Aim of this internship
