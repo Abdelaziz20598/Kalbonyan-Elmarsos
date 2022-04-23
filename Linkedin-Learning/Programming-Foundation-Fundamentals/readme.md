@@ -17,4 +17,4 @@
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
 <br>[Preview Certificate](https://www.linkedin.com/feed/update/urn:li:activity:6916735534006505472/)
 
-<pre><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:6916735534006505472/"><img width="500" height="450" src="Linkedin_first_certificate.png"/></a></pre>
+<pre><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:6916735534006505472/"><img width="650" height="450" src="Linkedin_first_certificate.png"/></a></pre>
