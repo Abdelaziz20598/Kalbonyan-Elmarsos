@@ -1,0 +1,8 @@
+I am using linux (Ubuntu 14.04) so every python script must contain the shebang line #!/usr/bin/env python3
+
+then to run the code in the terminal write:
+
+chmode +x name-of-the-python-file.py
+./name-of-the-python-file.py
+
+poom it works :)

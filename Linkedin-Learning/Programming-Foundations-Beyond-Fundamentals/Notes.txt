@@ -1,0 +1,60 @@
+Hi
+# working with strings:
+    #print("The distance in kilometer is " * 5) the distance in kilometer is repeated 5 times
+    #print("The distance in kilometer is " + 5) its a type error, but in JS it will convert the number into string so it will be the distance is 5
+
+
+# choosing a code style:
+    Style guides (Documentation on approaches to code):
+    online style guides like (python style guide, python enhancement proposal, google python style guide)
+    The most commonly used style guide is PEP8 (Python Enhancement Proposal Number 8)
+    * Indentation to indicate the content structure
+    Ex: Aligned with opening delimiter
+    foo = long_function_name(var_one, var_two
+                            var_three, var_four)
+
+    Pseudocode:
+    It is recommended to write pseudocode before digging right into the code to help you create a basic outline for the program
+# Debugging
+
+    types of error:
+    Syntax Error, Runtime error, semantics(logic) Error
+
+    IDE (AutoRecommendation, Style Highlight, Linting(check code for bugs before even executed),....)
+
+
+    Test cases (Commands or scripts designed to a specific scenario:
+
+#Object oriented
+
+    What is the object-oriented programming term for something that an object can do?
+    a method
+
+    Why aren't all possible methods made available to every object?
+    to avoid overloading computer memory with unneeded methods
+    If all objects had access to all methods in the language, your programs would need more computer memory.
+
+# Advanced
+    computers uses  Drive, Memory(ROM, RAM)
+    Memory Management(some languages allow programmers to write a code that decides what's kept in memory and what's thrown away):
+    Many languages support an alternative approach to memory management known as garbage collection (An automated process that keeps track of which items aren't needed and deletes them
+
+
+    Multithreading (Pipelining) to do more than one thing at a time
+    Link(https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/introduction-to-multithreading?autoSkip=true&autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b&resume=false)
+    (ملحوظة لو مهتم اكثر راجع كورس ال operating systems)
+
+    python support multithreading
+    JS  support asynchronous code it isn't exactly the same of multithreading but it's very similar
+
+    Algorithms
+
+    What is it called when a compiler keeps track of which items in memory are no longer needed and deletes them automatically?
+    garbage collection
+
+    What's an advantage of using multithreading?
+    It can make your computer programs faster and more responsive.
+    Structuring your code to do multiple things at once can increase a program's speed and responsiveness.
+
+    Which is the best description of what an algorithm is?
+    a set of instructions that describes how to get the exact result you want
